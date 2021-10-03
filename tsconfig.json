@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "strict": false,
+        "noEmitOnError": false,
+        "incremental":true
+        // "noEmitOnError": true,
+        // "strictNullChecks": true
+    },
+    "include": ["src/**/*.ts"],
+    "exclude": ["node_modules"]
+}
